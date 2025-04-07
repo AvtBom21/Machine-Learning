@@ -1,4 +1,4 @@
-# Machine-Learning-
+# Machine-Learning
 (Study and stock prediction analysis)
 🔍 Final Machine Learning & Deep Learning Project
 This notebook demonstrates a wide range of techniques in machine learning and deep learning applied to multiple real-world problems:
